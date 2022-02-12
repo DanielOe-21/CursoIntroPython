@@ -94,7 +94,10 @@ Redes:
 # Respuesta
 
 ## Creación de ambientes virtuales con Conda
+![image](https://user-images.githubusercontent.com/94386100/153701248-022bd87c-7001-45b9-a6b9-dfed2fd32fb7.png)
 
 ## Activar ambiente virtual
+![image](https://user-images.githubusercontent.com/94386100/153701257-1a8f7389-0c83-4e59-99b1-7068164517bd.png)
 
 ## Desactivar ambiente virtual
+![image](https://user-images.githubusercontent.com/94386100/153701263-98ae3105-465a-447a-b108-1bdfa87d3063.png)
