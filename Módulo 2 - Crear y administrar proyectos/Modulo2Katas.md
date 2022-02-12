@@ -89,3 +89,12 @@ Redes:
 * GitHub: [FernandaOchoa](https://github.com/FernandaOchoa)
 * Twitter: [@imonsh](https://twitter.com/imonsh)
 * Instagram: [fherz8a](https://www.instagram.com/fherz8a/)
+
+
+# Respuesta
+
+## Creación de ambientes virtuales con Conda
+
+## Activar ambiente virtual
+
+## Desactivar ambiente virtual
